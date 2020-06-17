@@ -1,0 +1,7 @@
+{
+    "complierOptions": {
+      "sourceMap": true,
+      "target": "es5"
+    }
+  }
+  

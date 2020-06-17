@@ -1,0 +1,3 @@
+function runPromise(){
+    let aPromise
+}
